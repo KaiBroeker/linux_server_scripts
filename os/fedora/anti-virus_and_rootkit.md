@@ -78,5 +78,5 @@ cat /var/log/rkhunter.log
 
 ## LMD
 
-[source 1: tecmint 2015](https://www.tecmint.com/install-linux-malware-detect-lmd-in-rhel-centos-and-fedora/)
+[source 1: tecmint 2015](https://www.tecmint.com/install-linux-malware-detect-lmd-in-rhel-centos-and-fedora/)  
 [source 2: lmd project](http://www.rfxn.com/projects/linux-malware-detect/)
