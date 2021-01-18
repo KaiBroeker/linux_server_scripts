@@ -1,5 +1,28 @@
 # Security Scanner
 
+## ssh server scan
+First after install a server I check the ssh server configuration.
+I use ssh-audit for this scan.
+
+## Installation
+You can find different solutions to use the tool on: https://github.com/jtesta/ssh-audit
+You can also use the tool on https://www.ssh-audit.com/
+```
+git clone https://github.com/jtesta/ssh-audit.git
+```
+
+## Run test
+```
+cd ssh-autit
+ssh-audit localhost
+```
+
+## Hardening the server
+
+You can use the guides on: https://www.ssh-audit.com/hardening_guides.html
+or google for fixes.
+
+
 ## OpenSCAP
 
 ### Installation
